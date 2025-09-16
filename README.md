@@ -7,7 +7,7 @@
 A web-based application for automated detection of retinal diseases using deep learning. Built with Flask and TensorFlow. Users can upload eye scan images and receive AI-based diagnosis results directly through the web interface.## Features
 
 ## :hammer: Build it yourself
-1. Run the following command:
+Run the following command:
    ```bash
    # Clone this repo
    git clone https://github.com/Dafa15/MILA.git
@@ -21,9 +21,7 @@ A web-based application for automated detection of retinal diseases using deep l
    # Run the app
    phyton app.py
    
-2. Open the project in Android studio or another android development IDE.
-3. Wait untill Android Studio download all package
-4. Finally you can run this project on your android
+
 
 
 
